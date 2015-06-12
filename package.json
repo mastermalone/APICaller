@@ -1,0 +1,17 @@
+{
+  "name": "api_caller",
+  "version": "1.0.0",
+  "description": "API Module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "API"
+  ],
+  "author": "mastermalone",
+  "license": "ISC",
+  "devDependencies": {
+    "requirejs": "^2.1.18"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "name": "api_caller",
+  "version": "0.0.0",
+  "description": "API caller",
+  "keywords": [
+    "API"
+  ],
+  "authors": [
+    "mastermalone"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}

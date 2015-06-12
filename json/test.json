@@ -1,0 +1,16 @@
+{
+	"user": {
+		"userid": "12345",
+		"activity_id": "657987",
+		"lessonId": "636393473",
+		"game_type": "puzzle",
+		"level_config": {
+			"1": {
+				"pieces": "4",
+				"bg_transparency": ".5",
+				"proximity": "100%",
+				"best_time": "3:00"
+			}
+		}
+	}
+}
